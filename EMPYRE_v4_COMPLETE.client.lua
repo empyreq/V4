@@ -16,7 +16,7 @@ local function isMobileDevice()
 end
 
 local CONFIG = {
-    PrivateServerOnly = true,
+    PrivateServerOnly = false,
 
     AimEnabled = false,
     AimMode = "Toggle",
